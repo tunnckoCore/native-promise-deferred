@@ -42,6 +42,13 @@
       "path": "./node_modules/cz-conventional-changelog"
     }
   },
+  "nyc": {
+    "check-coverage": true,
+    "statements": 0,
+    "functions": 0,
+    "branches": 0,
+    "lines": 0
+  },
   "verb": {
     "run": true,
     "toc": {
@@ -54,18 +61,26 @@
       "readme"
     ],
     "related": {
-      "list": [],
+      "list": [
+        "native-promise",
+        "native-or-another",
+        "dush",
+        "dush-tap-report",
+        "dush-no-chaining",
+        "dush-router",
+        "gibon"
+      ],
       "highlight": "native-promise"
     },
+    "reflinks": [
+      "charlike",
+      "commitizen",
+      "standard-version",
+      "verb",
+      "verb-generate-readme"
+    ],
     "lint": {
       "reflinks": true
     }
-  },
-  "nyc": {
-    "check-coverage": true,
-    "statements": 0,
-    "functions": 0,
-    "branches": 0,
-    "lines": 0
   }
 }
