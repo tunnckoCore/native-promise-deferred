@@ -40,7 +40,7 @@ var register = require('native-or-another/register')
  * // => ERR! Error: foo bar
  *
  * customPromise.reject(new Error('foo bar'))
- * ```js
+ * ```
  *
  * @name   Deferred
  * @param  {Object} `options` directly passed to [native-or-another][]'s "register"
