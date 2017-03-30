@@ -85,7 +85,11 @@ $ yarn add native-promise-deferred
 > For more use-cases see the [tests](test.js)
 
 ```js
-const nativePromiseDeferred = require('native-promise-deferred')
+const Promise = require('native-promise-deferred')
+
+const promise = new Promise()
+promise.then((res) => console.log(res))
+promise.resolve(123) // same as Promise.resolve(123)
 ```
 
 ## API
