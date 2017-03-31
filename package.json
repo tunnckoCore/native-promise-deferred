@@ -37,7 +37,17 @@
   "files": [
     "index.js"
   ],
-  "keywords": [],
+  "keywords": [
+    "async",
+    "async-await",
+    "await",
+    "deferred",
+    "deferred-promise",
+    "native",
+    "native-promise",
+    "promise",
+    "util"
+  ],
   "config": {
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
