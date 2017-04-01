@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.0.1"></a>
+## [1.0.1](https://github.com/tunnckocore/native-promise-deferred/compare/v1.0.0...v1.0.1) (2017-04-01)
+
+
+### Bug Fixes
+
+* **readme:** fix link of github tag badge ([67cef60](https://github.com/tunnckocore/native-promise-deferred/commit/67cef60))
+
+
+
 <a name="1.0.0"></a>
 # 1.0.0 (2017-03-31)
 

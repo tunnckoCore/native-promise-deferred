@@ -1,6 +1,6 @@
 {
   "name": "native-promise-deferred",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A deferred Promise, using `native-or-another` behind and so it work on Node.js v0.10 too!",
   "repository": "tunnckoCore/native-promise-deferred",
   "author": "Charlike Mike Reagent <@tunnckoCore> (https://i.am.charlike.online)",
